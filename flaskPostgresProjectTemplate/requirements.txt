@@ -1,0 +1,3 @@
+dFlask
+psycopg2-binary
+sqlparse
